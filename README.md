@@ -1,10 +1,18 @@
 # C-Compiler-From-Scratch
 C Compiler (From Scratch)
 
+<br>
 
-It's not finished at the moment | Still working on it
 
-When downloaded: 
+<h3><b> Still working on it </b></h3>
+
+<br>
+
+<br>
+
+<h4>When downloaded: </h4>
+
+<div>&nbsp;</div>
 
 Open terminal 
 
