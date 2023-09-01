@@ -12,4 +12,4 @@ cd into the compiler (where you downloaded it)
 
 Type make and type ./main
 
-![Screenshot from 2023-09-01 14-23-32](https://github.com/dylanhood/C-Compiler-From-Scratch/assets/66035537/555c5b02-bd87-4369-ac36-d0e2f6ed02a0)
+![Screenshot from 2023-09-01 14-35-44](https://github.com/dylanhood/C-Compiler-From-Scratch/assets/66035537/4037c5a4-0940-421e-8a67-aa51af371fed)
