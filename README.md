@@ -2,7 +2,7 @@
 C Compiler (From Scratch)
 
 
-It's not finished at the moment | stil working on it
+It's not finished at the moment | Stil working on it
 
 When downloaded: 
 
